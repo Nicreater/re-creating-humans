@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nicreater
-- 👀 I’m interested in ... everything 
-- 🌱 I’m currently learning ... everything 
+- 👀 I’m interested in ... nothing
+- 🌱 I’m currently learning ... something
 - 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ...dont
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...i am a human
+- ⚡ Fun fact: ...i am a guess what i am
 
 <!---
 Nicreater/Nicreater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
